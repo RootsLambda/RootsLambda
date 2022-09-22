@@ -5,7 +5,7 @@
 # 🔭 Languages and framework: 
 <p>
 <image height='36' width='36' src='https://img.icons8.com/fluency/344/matlab.png'>
-<image height='36' width='36' src='https://img.icons8.com/nolan/344/c-key.png'>
+<image height='36' width='36' src='https://img.icons8.com/color/344/c.png'>
 <image height='36' width='36' src='https://img.icons8.com/color/344/c-sharp-logo-2.png'>
 <image height='36' width='36' src='https://img.icons8.com/color/344/python.png'>
 <image height='36' width='36' src='https://img.icons8.com/color/344/django.png'>
