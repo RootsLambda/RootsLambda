@@ -1,5 +1,10 @@
 ## Hi 👋 I'm Roots Lambda
-+ I'm 21 years old and a math enthusiast
+
+<img src = 'forkit.gif'>
+
+## ⚡ About me: 
++ Mechatronics Engineer
++ I have a passion for math
 + I study at Ho Chi Minh City Technology University
 
 # 🔭 Languages and framework: 
@@ -16,11 +21,5 @@
 
 
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|![RootsLambda GitHub stats](https://github-readme-stats.vercel.app/api?username=RootsLambda&show_icons=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RootsLambda&layout=compact)|
+| ------------- | ------------- |
